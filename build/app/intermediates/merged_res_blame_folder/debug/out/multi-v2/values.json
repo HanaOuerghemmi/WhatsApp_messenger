@@ -40,25 +40,6 @@
                     }
                 },
                 {
-                    "source": "/home/hana/HanaDoc/whats/whatsApp_messenger/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,18",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,1089",
-                        "endLines": "11,20",
-                        "endColumns": "12,12",
-                        "endOffsets": "747,1253"
-                    },
-                    "to": {
-                        "startLines": "149,157",
-                        "startColumns": "4,4",
-                        "startOffsets": "10477,10929",
-                        "endLines": "156,159",
-                        "endColumns": "12,12",
-                        "endOffsets": "10924,11093"
-                    }
-                },
-                {
                     "source": "/home/hana/.gradle/caches/transforms-3/721ac129bf86fbce5066d29b0de7d232/transformed/browser-1.5.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -198,6 +179,25 @@
                         "endLines": "89,94,115,257,261",
                         "endColumns": "56,64,63,24,24",
                         "endOffsets": "5688,5923,7053,15402,15551"
+                    }
+                },
+                {
+                    "source": "/home/hana/HanaDoc/WhatsApp_messenger/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,1089",
+                        "endLines": "11,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "747,1253"
+                    },
+                    "to": {
+                        "startLines": "149,157",
+                        "startColumns": "4,4",
+                        "startOffsets": "10477,10929",
+                        "endLines": "156,159",
+                        "endColumns": "12,12",
+                        "endOffsets": "10924,11093"
                     }
                 },
                 {

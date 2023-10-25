@@ -13,23 +13,23 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/home/hana/HanaDoc/whats/whatsApp_messenger/android/app/src/debug/AndroidManifest.xml:6:5-66
-15-->/home/hana/HanaDoc/whats/whatsApp_messenger/android/app/src/debug/AndroidManifest.xml:6:22-64
+15-->/home/hana/HanaDoc/WhatsApp_messenger/android/app/src/debug/AndroidManifest.xml:6:5-66
+15-->/home/hana/HanaDoc/WhatsApp_messenger/android/app/src/debug/AndroidManifest.xml:6:22-64
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-16-->/home/hana/HanaDoc/whats/whatsApp_messenger/android/app/src/main/AndroidManifest.xml:2:5-79
-16-->/home/hana/HanaDoc/whats/whatsApp_messenger/android/app/src/main/AndroidManifest.xml:2:22-76
+16-->/home/hana/HanaDoc/WhatsApp_messenger/android/app/src/main/AndroidManifest.xml:2:5-79
+16-->/home/hana/HanaDoc/WhatsApp_messenger/android/app/src/main/AndroidManifest.xml:2:22-76
 17    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-17-->/home/hana/HanaDoc/whats/whatsApp_messenger/android/app/src/main/AndroidManifest.xml:3:5-76
-17-->/home/hana/HanaDoc/whats/whatsApp_messenger/android/app/src/main/AndroidManifest.xml:3:22-73
+17-->/home/hana/HanaDoc/WhatsApp_messenger/android/app/src/main/AndroidManifest.xml:3:5-76
+17-->/home/hana/HanaDoc/WhatsApp_messenger/android/app/src/main/AndroidManifest.xml:3:22-73
 18    <uses-permission android:name="android.permission.READ_CONTACTS" />
-18-->/home/hana/HanaDoc/whats/whatsApp_messenger/android/app/src/main/AndroidManifest.xml:4:5-71
-18-->/home/hana/HanaDoc/whats/whatsApp_messenger/android/app/src/main/AndroidManifest.xml:4:22-69
+18-->/home/hana/HanaDoc/WhatsApp_messenger/android/app/src/main/AndroidManifest.xml:4:5-71
+18-->/home/hana/HanaDoc/WhatsApp_messenger/android/app/src/main/AndroidManifest.xml:4:22-69
 19    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
-19-->/home/hana/HanaDoc/whats/whatsApp_messenger/android/app/src/main/AndroidManifest.xml:5:5-72
-19-->/home/hana/HanaDoc/whats/whatsApp_messenger/android/app/src/main/AndroidManifest.xml:5:22-70
+19-->/home/hana/HanaDoc/WhatsApp_messenger/android/app/src/main/AndroidManifest.xml:5:5-72
+19-->/home/hana/HanaDoc/WhatsApp_messenger/android/app/src/main/AndroidManifest.xml:5:22-70
 20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-20-->[:photo_manager] /home/hana/HanaDoc/whats/whatsApp_messenger/build/photo_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-80
-20-->[:photo_manager] /home/hana/HanaDoc/whats/whatsApp_messenger/build/photo_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-77
+20-->[:photo_manager] /home/hana/HanaDoc/WhatsApp_messenger/build/photo_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-80
+20-->[:photo_manager] /home/hana/HanaDoc/WhatsApp_messenger/build/photo_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-77
 21
 22    <permission
 22-->[androidx.core:core:1.10.1] /home/hana/.gradle/caches/transforms-3/d2bdb852b4afb82627ab30e2565a0334/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
@@ -84,43 +84,43 @@
 66            android:value="2" />
 67
 68        <service
-68-->[:firebase_database] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+68-->[:firebase_database] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
 69            android:name="com.google.firebase.components.ComponentDiscoveryService"
-69-->[:firebase_database] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
+69-->[:firebase_database] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
 70            android:directBootAware="true"
 70-->[com.google.firebase:firebase-common:20.3.3] /home/hana/.gradle/caches/transforms-3/04d54205cae76f1c8bb124053dfe73f4/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:34:13-43
 71            android:exported="false" >
 71-->[com.google.firebase:firebase-auth:22.1.2] /home/hana/.gradle/caches/transforms-3/10e5d7af579ba6b9972f33f02984d205/transformed/jetified-firebase-auth-22.1.2/AndroidManifest.xml:68:13-37
 72            <meta-data
-72-->[:firebase_database] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+72-->[:firebase_database] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 73                android:name="com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar"
-73-->[:firebase_database] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-127
+73-->[:firebase_database] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-127
 74                android:value="com.google.firebase.components.ComponentRegistrar" />
-74-->[:firebase_database] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+74-->[:firebase_database] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 75            <meta-data
-75-->[:cloud_firestore] /home/hana/HanaDoc/whats/whatsApp_messenger/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+75-->[:cloud_firestore] /home/hana/HanaDoc/WhatsApp_messenger/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 76                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-76-->[:cloud_firestore] /home/hana/HanaDoc/whats/whatsApp_messenger/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-134
+76-->[:cloud_firestore] /home/hana/HanaDoc/WhatsApp_messenger/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-134
 77                android:value="com.google.firebase.components.ComponentRegistrar" />
-77-->[:cloud_firestore] /home/hana/HanaDoc/whats/whatsApp_messenger/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+77-->[:cloud_firestore] /home/hana/HanaDoc/WhatsApp_messenger/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 78            <meta-data
-78-->[:firebase_auth] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+78-->[:firebase_auth] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 79                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-79-->[:firebase_auth] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+79-->[:firebase_auth] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 80                android:value="com.google.firebase.components.ComponentRegistrar" />
-80-->[:firebase_auth] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+80-->[:firebase_auth] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 81            <meta-data
-81-->[:firebase_storage] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+81-->[:firebase_storage] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 82                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-82-->[:firebase_storage] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-126
+82-->[:firebase_storage] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-126
 83                android:value="com.google.firebase.components.ComponentRegistrar" />
-83-->[:firebase_storage] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+83-->[:firebase_storage] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 84            <meta-data
-84-->[:firebase_core] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+84-->[:firebase_core] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 85                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-85-->[:firebase_core] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+85-->[:firebase_core] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 86                android:value="com.google.firebase.components.ComponentRegistrar" />
-86-->[:firebase_core] /home/hana/HanaDoc/whats/whatsApp_messenger/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+86-->[:firebase_core] /home/hana/HanaDoc/WhatsApp_messenger/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 87            <meta-data
 87-->[com.google.firebase:firebase-auth:22.1.2] /home/hana/.gradle/caches/transforms-3/10e5d7af579ba6b9972f33f02984d205/transformed/jetified-firebase-auth-22.1.2/AndroidManifest.xml:69:13-71:85
 88                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -148,31 +148,31 @@
 99        </service>
 100
 101        <provider
-101-->[:image_picker_android] /home/hana/HanaDoc/whats/whatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+101-->[:image_picker_android] /home/hana/HanaDoc/WhatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 102            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-102-->[:image_picker_android] /home/hana/HanaDoc/whats/whatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-82
+102-->[:image_picker_android] /home/hana/HanaDoc/WhatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-82
 103            android:authorities="com.example.whatsapp_messenger.flutter.image_provider"
-103-->[:image_picker_android] /home/hana/HanaDoc/whats/whatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-74
+103-->[:image_picker_android] /home/hana/HanaDoc/WhatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-74
 104            android:exported="false"
-104-->[:image_picker_android] /home/hana/HanaDoc/whats/whatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+104-->[:image_picker_android] /home/hana/HanaDoc/WhatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 105            android:grantUriPermissions="true" >
-105-->[:image_picker_android] /home/hana/HanaDoc/whats/whatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+105-->[:image_picker_android] /home/hana/HanaDoc/WhatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 106            <meta-data
-106-->[:image_picker_android] /home/hana/HanaDoc/whats/whatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:75
+106-->[:image_picker_android] /home/hana/HanaDoc/WhatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:75
 107                android:name="android.support.FILE_PROVIDER_PATHS"
-107-->[:image_picker_android] /home/hana/HanaDoc/whats/whatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+107-->[:image_picker_android] /home/hana/HanaDoc/WhatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
 108                android:resource="@xml/flutter_image_picker_file_paths" />
-108-->[:image_picker_android] /home/hana/HanaDoc/whats/whatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-72
+108-->[:image_picker_android] /home/hana/HanaDoc/WhatsApp_messenger/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-72
 109        </provider>
 110
 111        <activity
-111-->[:url_launcher_android] /home/hana/HanaDoc/whats/whatsApp_messenger/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
+111-->[:url_launcher_android] /home/hana/HanaDoc/WhatsApp_messenger/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
 112            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-112-->[:url_launcher_android] /home/hana/HanaDoc/whats/whatsApp_messenger/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+112-->[:url_launcher_android] /home/hana/HanaDoc/WhatsApp_messenger/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
 113            android:exported="false"
-113-->[:url_launcher_android] /home/hana/HanaDoc/whats/whatsApp_messenger/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+113-->[:url_launcher_android] /home/hana/HanaDoc/WhatsApp_messenger/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
 114            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-114-->[:url_launcher_android] /home/hana/HanaDoc/whats/whatsApp_messenger/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
+114-->[:url_launcher_android] /home/hana/HanaDoc/WhatsApp_messenger/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
 115        <activity
 115-->[com.google.firebase:firebase-auth:22.1.2] /home/hana/.gradle/caches/transforms-3/10e5d7af579ba6b9972f33f02984d205/transformed/jetified-firebase-auth-22.1.2/AndroidManifest.xml:29:9-46:20
 116            android:name="com.google.firebase.auth.internal.GenericIdpActivity"

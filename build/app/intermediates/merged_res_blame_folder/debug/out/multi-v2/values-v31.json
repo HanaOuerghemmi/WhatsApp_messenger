@@ -4,7 +4,7 @@
             "outputFile": "com.example.whatsapp_messenger.app-mergeDebugResources-26:/values-v31/values-v31.xml",
             "map": [
                 {
-                    "source": "/home/hana/HanaDoc/whats/whatsApp_messenger/android/app/src/main/res/values-v31/styles.xml",
+                    "source": "/home/hana/HanaDoc/WhatsApp_messenger/android/app/src/main/res/values-v31/styles.xml",
                     "from": {
                         "startLines": "3,18",
                         "startColumns": "4,4",
